@@ -69,7 +69,8 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
-  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
+  git clone "https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git"
+  //git clone request was not correct link should must be in double qoutes(done)
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
@@ -110,7 +111,8 @@ or
 6. Commit the changes:
 
 ```bash
-  git commit -m "Add <your-github-username>"
+  git commit -m add "<your-github-username>"
+  //it was not Add it is add and double qoutes must be after add commnad 
 ```
 
 - Check the status of your repository.
@@ -180,7 +182,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
+  - [Aahmed Bilal](http)s://github.com/3abilal3)
   - [Aakansha Priya](https://github.com/priyaaakansha)
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aakash Bansal](https://github.com/Aakashbansal837)
